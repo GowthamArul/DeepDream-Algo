@@ -9,4 +9,4 @@ DeepDream is an experiment that visualizes the patterns learned by a neural netw
 It does so by forwarding an image through the network, then calculating the gradient of the image with respect to the activations of a particular layer. The image is then modified to increase these activations, enhancing the patterns seen by the network, and resulting in a dream-like image. This process was dubbed "Inceptionism" (a reference to InceptionNet, and the movie Inception).
 
 
-## Please refer the PDF to get more info about Deep Dream Algorithm
+## Please refer the pdf to know more about Deep Dream Algorithm
